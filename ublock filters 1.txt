@@ -1,0 +1,66 @@
+! 2020-11-22 https://orteil.dashnet.org
+orteil.dashnet.org###smallSupport
+
+! 2020-11-22 https://techcrunch.com
+techcrunch.com##.homepage__event-promo
+
+! 2020-11-22 https://microsoftcasualgames.com
+microsoftcasualgames.com##.page-flex-fill
+
+! 2020-12-03 https://www.nintendolife.com
+||static.nintendolife.com/themes/nl.v10/css/images/bg.png$image
+||static.nintendolife.com/themes/nl.v10/css/images/bg.png?v=2$image
+
+! 2020-12-04 https://www.polygon.com
+www.polygon.com##.m-privacy-consent
+
+! 2020-12-04 https://www.icloud.com
+www.icloud.com##.notice-view-inner
+www.icloud.com##.notice-view
+www.icloud.com##.banner-view
+
+! 2020-12-09 https://www.indiegala.com
+www.indiegala.com##.relative.popup-relative
+
+! 2020-12-10 https://studio.youtube.com
+studio.youtube.com##.ytcp-uploads-basics.style-scope.description-textarea > div > .vidiq-upload-modal-input-suggestions
+studio.youtube.com##.ytcp-uploads-basics.style-scope.title-textarea > div > .vidiq-upload-modal-input-suggestions
+studio.youtube.com##.upsell.demonetization-keyword-highlight-activator
+studio.youtube.com##.vidiq-upload-best-time
+studio.youtube.com##.vidiq-best-time-to-post-container-studio.vidiq-best-time-to-post-container > .vidiq-studio-beta-upsell
+studio.youtube.com##.vidiq-studio-beta-rec-tags-container > .vidiq-studio-beta-upsell
+studio.youtube.com##.vidiq-studio-beta-trending-vids-container > .vidiq-studio-beta-upsell
+studio.youtube.com##.seo-score-popover-upgrade
+studio.youtube.com##.vidiq-demonetization-words
+
+! 2020-12-12 https://www.minecraft.net
+www.minecraft.net##._23tra1HsiiP6cT-Cka-ycB
+
+! 2020-12-19 https://www.random.org
+www.random.org###cookie-banner
+
+! 2020-12-21 https://www.addictinggames.com
+www.addictinggames.com##.banner_banner--3pjXd
+
+! 2021-01-24 https://www.raspberrypi.org
+www.raspberrypi.org##.c-cookie-banner__container
+
+! 2021-01-26 https://sverigesradio.se
+sverigesradio.se##.cookie-message
+
+! 2021-01-27 https://play.cprewritten.net
+||play.cprewritten.net/snowball/img/pattern-bg.min.webp$image
+||play.cprewritten.net/snowball/img/pattern-bg.min.webp$image
+||play.cprewritten.net/snowball/img/pattern-bg.min.webp$image
+play.cprewritten.net##div.ad__container:nth-of-type(1)
+play.cprewritten.net##div.ad__container:nth-of-type(5)
+
+! 2021-01-30 https://www.boxer.se
+www.boxer.se##.CookieBar__cookieBar__1CI
+
+! 2021-01-31 https://gleerupsportal.se
+gleerupsportal.se##.hcJoJM.sc-ifAKCX
+
+! 2021-01-31 https://skolportalen.helsingborg.se
+skolportalen.helsingborg.se##.bottom-fixed.gutter-vertical.gutter.info.notice
+
