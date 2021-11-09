@@ -1,0 +1,30 @@
+! 2021-10-07 https://cpstest.org
+cpstest.org##.bottomAdsection
+
+! 2021-10-25 https://www.so-rummet.se
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content5011ca4b-f0f7-410f-898e-bb9bb7f8ff4d.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content787412f1-ac89-44c0-ac66-c1f41590b85a.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content3a4e16a6-7050-4843-85da-007f15a7e565.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content34f6e119-18b7-41d8-b380-44a828e36e8b.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-contentfff2b1a2-ea11-4b03-9f79-545fc222b465.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-contentdf914131-94a4-4a16-9f5c-776974751609.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-contentbea5e537-4c5b-433b-8742-c8e4fe178b54.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-contentb49b637c-68d2-47cf-a998-0dd0a66e5038.block-block-content.block
+www.so-rummet.se##.block-region-top > .img-responsive.block-rr.clearfix.block-block-content3871a20d-79b7-4930-a0bb-9441b00920a4.block-block-content.block
+www.so-rummet.se##.block-region-top > .img-responsive.block-rr.clearfix.block-block-content3b540903-bad0-4d04-9edd-2ece8c5b78ee.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content89fc21a3-e0fa-493f-9929-487945bb7dfd.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-contentc59b0c5a-7075-4cb7-8139-ee98962d4ae5.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content798325f1-a820-4282-8f2d-f808f48d7e5f.block-block-content.block
+www.so-rummet.se##.img-responsive.block-rr.clearfix.block-block-content82706b74-ff89-43f6-8078-42d682dc51b4.block-block-content.block
+www.so-rummet.se##.ad-screen > .img-responsive.block-rr.clearfix.block-block-content3871a20d-79b7-4930-a0bb-9441b00920a4.block-block-content.block
+
+! 2021-10-26 https://popularhistoria.se
+popularhistoria.se##[href="https://popularhistoria.se/nyhetsbrev-fran-popular-historia"]
+
+! 2021-10-27 https://slakthistoria.se
+slakthistoria.se##[href="https://slakthistoria.se/nyhetsbrev-fran-slakthistoria"]
+slakthistoria.se##.ctm-box
+
+! 2021-10-27 https://modernpsykologi.se
+modernpsykologi.se##.Site__main > .container > .Grid > .Grid__col--delta--3.Grid__col.Sidebar
+
