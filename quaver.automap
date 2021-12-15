@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="722721511" PlugID3="1444606871" PlugID2="1141333638" PlugID1="1578595161" />
+    <DeviceID DeviceID="1188229297" DeviceID3="-1959141222" DeviceID2="1153125835" DeviceID1="1329193890" />
+    <Type Type="0" />
+    <BrowserHint Value="0" />
+    <Group name="Controls">
+        <Group name="Page 1 Buttons 1">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 2">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 3">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 4">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 5">
+            <Param />
+            <Param />
+            <Param name="D " shortName="D " id="-1" intStep="0" intMax="100" intMin="0" high="100" low="0" step="0.000000">
+                <KeyEvent code="68" character="68" modifiers="0" scancode="32" />
+            </Param>
+            <Param name="F " shortName="F " id="-1" intStep="0" intMax="100" intMin="0" high="100" low="0" step="0.000000">
+                <KeyEvent code="70" character="70" modifiers="0" scancode="33" />
+            </Param>
+            <Param name="J " shortName="J " id="-1" intStep="0" intMax="100" intMin="0" high="100" low="0" step="0.000000">
+                <KeyEvent code="74" character="74" modifiers="0" scancode="36" />
+            </Param>
+            <Param name="K " shortName="K " id="-1" intStep="0" intMax="100" intMin="0" high="100" low="0" step="0.000000">
+                <KeyEvent code="75" character="75" modifiers="0" scancode="37" />
+            </Param>
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 6">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 7">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Buttons 8">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Row Selects">
+            <Param />
+            <Param />
+            <Param />
+            <Param name="Up " shortName="Up " id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="38" character="38" modifiers="16777216" scancode="72" />
+            </Param>
+            <Param name="Down " shortName="Down " id="-1" intStep="0" intMax="100" intMin="0" high="100" low="0" step="0.000000">
+                <KeyEvent code="40" character="40" modifiers="16777216" scancode="80" />
+            </Param>
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>
